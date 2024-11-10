@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Paskaita_Savarankiskos_Uzduotis", "7_Paskaita_Savarankiskos_Uzduotis\7_Paskaita_Savarankiskos_Uzduotis.csproj", "{527DA973-2410-450A-91BE-5DEB774330F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Uzduotis", "2_Uzduotis\2_Uzduotis.csproj", "{085246D9-C9E3-4EF4-82F3-773D22A9396B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527DA973-2410-450A-91BE-5DEB774330F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527DA973-2410-450A-91BE-5DEB774330F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527DA973-2410-450A-91BE-5DEB774330F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527DA973-2410-450A-91BE-5DEB774330F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085246D9-C9E3-4EF4-82F3-773D22A9396B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085246D9-C9E3-4EF4-82F3-773D22A9396B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085246D9-C9E3-4EF4-82F3-773D22A9396B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085246D9-C9E3-4EF4-82F3-773D22A9396B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {210B4CB4-AA92-4D2E-A5BE-D9619B93A858}
+	EndGlobalSection
+EndGlobal
